@@ -1,0 +1,16 @@
+.form{
+    width: 500px;
+    border: 2px solid #ccc;
+    background: #fff;
+    border-radius: 25px;
+    margin-left: 320px;
+   justify-content: center;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    text-decoration: #fff;
+}
+body{
+    padding: 0px;
+}
